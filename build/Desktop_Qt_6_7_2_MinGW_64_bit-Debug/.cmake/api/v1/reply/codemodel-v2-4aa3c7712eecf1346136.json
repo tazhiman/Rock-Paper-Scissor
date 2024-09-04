@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-96fc476a3e1a9e864194.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ScissorsPaperStone",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ScissorsPaperStone::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ScissorsPaperStone-Debug-38a6f57305c338a7d28d.json",
+					"name" : "ScissorsPaperStone",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ScissorsPaperStone_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ScissorsPaperStone_autogen-Debug-30e09db566c02d9ebf83.json",
+					"name" : "ScissorsPaperStone_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ScissorsPaperStone_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ScissorsPaperStone_autogen_timestamp_deps-Debug-92064a08fd155733bedf.json",
+					"name" : "ScissorsPaperStone_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/tazhi/OneDrive - Singapore Institute Of Technology/Documents/ScissorsPaperStone/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/tazhi/OneDrive - Singapore Institute Of Technology/Documents/ScissorsPaperStone"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

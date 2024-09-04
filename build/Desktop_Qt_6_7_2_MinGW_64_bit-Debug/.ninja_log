@@ -1,0 +1,37 @@
+# ninja log v5
+48	63	0	clean	139b443fbd37261f
+8	47	0	CMakeFiles/clean.additional	baedbe210acaa455
+275	700	7471433943532486	CMakeFiles/ScissorsPaperStone.dir/GameMechanics.cpp.obj	2c59866beefb31ff
+753	3344	7471620896767988	CMakeFiles/ScissorsPaperStone.dir/ScissorsPaperStone_autogen/mocs_compilation.cpp.obj	df6a5b2fa8da124f
+238	2712	7471678626150773	CMakeFiles/ScissorsPaperStone.dir/mainwindow.cpp.obj	384ab48fdc37310f
+763	2917	7471620892503355	CMakeFiles/ScissorsPaperStone.dir/main.cpp.obj	59e0c3f5baba90c0
+274	2639	7471442178031505	CMakeFiles/ScissorsPaperStone.dir/main_copy.cpp.obj	53f02b751c67bd2
+2712	2980	7471678628777960	ScissorsPaperStone.exe	4453c7ae9f960863
+16	221	7471678573056835	C:/Users/tazhi/OneDrive - Singapore Institute Of Technology/Documents/ScissorsPaperStone/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ScissorsPaperStone_autogen/mocs_compilation.cpp	fbd79150cd8ad2e0
+16	221	7471678573056835	C:/Users/tazhi/OneDrive - Singapore Institute Of Technology/Documents/ScissorsPaperStone/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ScissorsPaperStone_autogen/timestamp	fbd79150cd8ad2e0
+16	221	7471678573056835	ScissorsPaperStone_autogen/mocs_compilation.cpp	fbd79150cd8ad2e0
+16	221	7471678573056835	ScissorsPaperStone_autogen/timestamp	fbd79150cd8ad2e0
+21	198	7471679597599873	ScissorsPaperStone_autogen/timestamp	fbd79150cd8ad2e0
+21	198	7471679597599873	ScissorsPaperStone_autogen/mocs_compilation.cpp	fbd79150cd8ad2e0
+21	198	7471679597599873	C:/Users/tazhi/OneDrive - Singapore Institute Of Technology/Documents/ScissorsPaperStone/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ScissorsPaperStone_autogen/timestamp	fbd79150cd8ad2e0
+21	198	7471679597599873	C:/Users/tazhi/OneDrive - Singapore Institute Of Technology/Documents/ScissorsPaperStone/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ScissorsPaperStone_autogen/mocs_compilation.cpp	fbd79150cd8ad2e0
+214	2456	7471679739623454	CMakeFiles/ScissorsPaperStone.dir/mainwindow.cpp.obj	384ab48fdc37310f
+2456	2745	7471679742458149	ScissorsPaperStone.exe	4453c7ae9f960863
+15	196	7471681322668705	ScissorsPaperStone_autogen/timestamp	fbd79150cd8ad2e0
+15	196	7471681322668705	ScissorsPaperStone_autogen/mocs_compilation.cpp	fbd79150cd8ad2e0
+15	196	7471681322668705	C:/Users/tazhi/OneDrive - Singapore Institute Of Technology/Documents/ScissorsPaperStone/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ScissorsPaperStone_autogen/timestamp	fbd79150cd8ad2e0
+15	196	7471681322668705	C:/Users/tazhi/OneDrive - Singapore Institute Of Technology/Documents/ScissorsPaperStone/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ScissorsPaperStone_autogen/mocs_compilation.cpp	fbd79150cd8ad2e0
+213	2546	7471681401481443	CMakeFiles/ScissorsPaperStone.dir/mainwindow.cpp.obj	384ab48fdc37310f
+2546	2796	7471681403950661	ScissorsPaperStone.exe	4453c7ae9f960863
+15	201	7471682318990914	ScissorsPaperStone_autogen/timestamp	fbd79150cd8ad2e0
+15	201	7471682318990914	ScissorsPaperStone_autogen/mocs_compilation.cpp	fbd79150cd8ad2e0
+15	201	7471682318990914	C:/Users/tazhi/OneDrive - Singapore Institute Of Technology/Documents/ScissorsPaperStone/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ScissorsPaperStone_autogen/timestamp	fbd79150cd8ad2e0
+15	201	7471682318990914	C:/Users/tazhi/OneDrive - Singapore Institute Of Technology/Documents/ScissorsPaperStone/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ScissorsPaperStone_autogen/mocs_compilation.cpp	fbd79150cd8ad2e0
+217	2472	7471682438131267	CMakeFiles/ScissorsPaperStone.dir/mainwindow.cpp.obj	384ab48fdc37310f
+2472	2748	7471682440837975	ScissorsPaperStone.exe	4453c7ae9f960863
+15	223	7471683741313662	ScissorsPaperStone_autogen/timestamp	fbd79150cd8ad2e0
+15	223	7471683741313662	ScissorsPaperStone_autogen/mocs_compilation.cpp	fbd79150cd8ad2e0
+15	223	7471683741313662	C:/Users/tazhi/OneDrive - Singapore Institute Of Technology/Documents/ScissorsPaperStone/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ScissorsPaperStone_autogen/timestamp	fbd79150cd8ad2e0
+15	223	7471683741313662	C:/Users/tazhi/OneDrive - Singapore Institute Of Technology/Documents/ScissorsPaperStone/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ScissorsPaperStone_autogen/mocs_compilation.cpp	fbd79150cd8ad2e0
+239	2517	7471683767414674	CMakeFiles/ScissorsPaperStone.dir/mainwindow.cpp.obj	384ab48fdc37310f
+2517	2770	7471683769895516	ScissorsPaperStone.exe	4453c7ae9f960863
